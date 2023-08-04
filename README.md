@@ -23,7 +23,7 @@ It is an ambitious antivirus project that seeks to fortify your digital fortress
 
 ![Scan Screenshot](https://github.com/R1SH4BH81/antivirus/raw/main/img/img1.png)
 
-Using CyberShield: Aegis is as easy as breathing. Once installed, you can:
+Using this is as easy as breathing. Once installed, you can:
 
 1. **Scan On-Demand**: Launch scans of specific files or perform a thorough system-wide scan at your convenience. <br><img src="https://github.com/R1SH4BH81/antivirus/raw/main/img/img2.png" alt ="image showing the scan on demand program executing."><br>
 2. **System Scan**: Relish in the peace of mind knowing this stands guard.<br><img src="https://github.com/R1SH4BH81/antivirus/raw/main/img/img3.png" title="image showing the staring process of full system scan."><br>
