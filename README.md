@@ -6,7 +6,7 @@
 
 ### Overview
 
-It is an ambitious antivirus project that seeks to fortify your digital fortress against the relentless onslaught of cyber threats. At this stage, we are tirelessly developing an unbreachable shield to protect your digital world from the forces of malware, viruses, and other sinister online hazards.
+It is an ambitious antivirus project that seeks to fortify your digital fortress against the relentless onslaught cyber threats. At this stage, we are tirelessly developing an unbreachable shield to protect your digital world from the forces of malware, viruses, and other sinister online hazards.
 
 
 ### Features
