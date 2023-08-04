@@ -36,4 +36,4 @@ Using this is as easy as breathing. Once installed, you can:
 
 We'd love to hear from you! If you have suggestions, feedback, or want to collaborate, drop us an <a href="malito:rishabhmishra.81e@gmail.com">Email</a> .
 ---
-As we forge ahead in the development journey of antivirus we anticipate incorporating more exciting features and enhancing our user interface. Stay tuned for updates and witness the evolution of cybersecurity in action! 
+As we forge ahead in the development journey of antivirus we anticipate incorporating more exciting features and enhancing our user interface. Stay tuned for updates and witness the evolution of cybersecurity in action! <a href="malito:rishabhmishra.81e@gmail.com">Email</a>
