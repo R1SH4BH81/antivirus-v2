@@ -16,6 +16,23 @@ It is an ambitious antivirus project that seeks to fortify your digital fortress
 ✨ **System Scan**: For a complete system-wide check, utilize the powerful System Scan feature to detect and remove malicious elements lurking in your computer.
 
 ✨ **File Quarantine**: Whenit  detects a lurking danger, it swiftly isolates the threat in its impenetrable quarantine zone, safeguarding your data from harm.
+### Structure
+.
+├── main
+│   ├── SystemFileScanner.py
+│   ├── quarantine.py
+│   └── Antivirus-project.exe
+│
+└── AntiVirus
+    ├── Large_Update_File
+    │   ├── links_current.txt
+    │   ├── links_downloaded.txt
+    │   └── signatures.txt
+    │
+    ├── Quarantine
+    │
+    └── sf
+        └── sf.txt
 
 
 
